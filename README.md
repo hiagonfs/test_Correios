@@ -22,6 +22,6 @@ Esse projeto não possui licença.
 
 ## 🏷 Versões
 
-Lista de versões?
+Lista de versões:
 
 [v1.0.0](https://github.com/hiagonfs/test_Correios/releases/tag/v1.0.0)
