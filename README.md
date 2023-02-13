@@ -20,4 +20,8 @@ Para usar este projeto, siga estas etapas na IDE do Visual Studio:
 
 Esse projeto não possui licença. 
 
-Nota: Última versão disponível [aqui][(https://github.com/hiagonfs/test_Correios/releases/tag/v1.0.0)
+## 🏷 Versões
+
+Lista de versões?
+
+[v1.0.0](https://github.com/hiagonfs/test_Correios/releases/tag/v1.0.0)
