@@ -7,7 +7,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente do `Visual Studio` (para o projeto em questão foi utilizada a 2022)
 * Você instalou as seguintes dependências: NUnit, Selenium.Suport, Selenium.WebDriver, MSTest.TestAdapter, MSTest.TestFramwork, Microsoft.TestPlataform.TestHost, Microsoft.NET.Test.Sdk  
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando o projeto
 
 Para usar este projeto, siga estas etapas na IDE do Visual Studio:
 
